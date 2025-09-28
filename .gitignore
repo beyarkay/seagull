@@ -6,3 +6,11 @@
 *.csv
 *.xml
 *.xml
+*.gbr
+seagull/out/
+out/
+fp-info-cache
+untitled.*
+seagull-backups/
+seagull/seagull-backups/
+
