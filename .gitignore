@@ -1,0 +1,8 @@
+*.zip
+*.png
+*.kicad_sch-bak
+.DS_Store
+*.pdf
+*.csv
+*.xml
+*.xml
