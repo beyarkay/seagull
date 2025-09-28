@@ -22,13 +22,9 @@ JLCPCB, the design and concept works.
 |      Input/Output Headers      |
 | :----------------------------: |
 |       ![io](imgs/io.png)       |
-| :----------------------------: |
 |       Sum-of-neighbours        |
-| :----------------------------: |
 | ![counters](imgs/counters.png) |
-|   :-----------------------:    |
 |   Logic (should I be dead?)    |
-|   :-----------------------:    |
 |    ![Front](imgs/logic.png)    |
 
 # What is Conway's Game of Life?
@@ -125,7 +121,11 @@ first to the left cell, and then to the central cell.
 
 ## Implementing Game of Life via NOR circuits
 
+(WIP)
+
 ## Calculating the neighbours sum
+
+(WIP)
 
 ## Problems & frustrations
 
